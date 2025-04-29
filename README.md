@@ -20,8 +20,6 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor apaixonado por tecnologia, 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
-> Adicione ou remova tecnologias conforme sua stack.
-
 ## 📈 GitHub Stats
 
 ![Jovanne Sousa](https://github-readme-stats.vercel.app/api?username=jovannesousa&show_icons=true&theme=radical&count_private=true)
