@@ -72,7 +72,7 @@
 ## 📫 Contato
 - ✉ **Email:** jovanemaciel943@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/jovanesousadev](https://www.linkedin.com/in/jovanesousadev)  
-- 🌐 **Portfólio:** *Em desenvolvimento*
+- 🌐 **Portfólio:** [*Jovane Sousa*](https://portifolio-seven-vert-85.vercel.app/)
 
 ---
 
