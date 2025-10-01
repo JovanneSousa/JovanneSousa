@@ -1,14 +1,16 @@
 # 👋 Olá! Eu sou Jovane Sousa
 
-💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e por transformar ideias em soluções reais.  
-🎯 Atuo principalmente no **Front End**, mas estou expandindo minhas habilidades para o **desenvolvimento full stack**.
+💻 Desenvolvedor Full Stack em constante evolução, apaixonado por tecnologia e por transformar ideias em soluções reais.  
+🎯 Atuo com **frontend e backend**, construindo aplicações completas, escaláveis e bem estruturadas.
 
 ---
 
 ## 🚀 Sobre mim
-- 🔹 **Frontend:** Foco em React, TypeScript e boas práticas de UI/UX.
-- 🔹 **Backend:** Aperceiçoando Java e Spring Boot para construir APIs robustas.
-- 🔹 **Banco de dados:** Experiência com PostgreSQL.
+- 🔹 **Full Stack:** Boa base tanto em front quanto em backend.
+- 🔹 **Backend:** Experiência sólida em **Java e Spring Boot**, iniciando estudos com **.NET e C#**.
+- 🔹 **Frontend:** Experiência com React, TypeScript, Vue e boas práticas de UI/UX.
+- 🔹 **Banco de dados:** Experiência com PostgreSQL, MySQL e MongoDB.
+- 🔹 **DevOps:** Praticando **GitLab CI/CD, Docker e integração de pipelines**.
 - 🔹 Sempre buscando evoluir em arquitetura de software, padrões de projeto e clean code.
 - 📍 Localização: Brasil
 
@@ -38,6 +40,8 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,10 +49,11 @@
 ![APIREST](https://img.shields.io/badge/APIRest-259eca?style=for-the-badge&logo=api&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-442320?style=for-the-badge&logo=jsf&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Ferramentas**
+### **DevOps & Ferramentas**
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
