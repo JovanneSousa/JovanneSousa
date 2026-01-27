@@ -1,94 +1,251 @@
-# 👋 Olá! Eu sou Jovane Sousa
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Jovanne%20Sousa&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
 
-💻 Desenvolvedor Full Stack em constante evolução, apaixonado por tecnologia e por transformar ideias em soluções reais.  
-🎯 Atuo com **frontend e backend**, construindo aplicações completas, escaláveis e bem estruturadas.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+problemas+complexos+em+software+escal%C3%A1vel+%E2%80%94+da+engenharia+ao+design."
+    alt="Texto animado"
+  />
+</p>
 
----
+<!-- BOTÕES TOPO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jovanesousadev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jovanemaciel943@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portifolio-seven-vert-85.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/jovannesousa" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Sobre mim
-- 🔹 **Full Stack:** Boa base tanto em front quanto em backend.
-- 🔹 **Backend:** Experiência sólida em **Java e Spring Boot**, iniciando estudos com **.NET e C#**.
-- 🔹 **Frontend:** Experiência com React, TypeScript, Vue e boas práticas de UI/UX.
-- 🔹 **Banco de dados:** Experiência com PostgreSQL, MySQL e MongoDB.
-- 🔹 **DevOps:** Praticando **GitLab CI/CD, Docker e integração de pipelines**.
-- 🔹 Sempre buscando evoluir em arquitetura de software, padrões de projeto e clean code.
-- 📍 Localização: Brasil
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jovannesousa&label=Profile%20Views&color=FF3B30" />
+  <img src="https://img.shields.io/github/followers/jovannesousa?label=Followers&color=9B111E" />
+  <img src="https://img.shields.io/github/stars/jovannesousa?label=Stars&color=9B111E" />
+</p>
 
----
+<hr/>
 
-## 🛠️ Tecnologias e Ferramentas
+<h2>🧠 Sobre mim</h2>
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-983f59?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69d3a7?style=for-the-badge&logo=cypress&logoColor=white)
+<ul>
+  <li><b>Atuação:</b> Engenheiro de Software / Full Stack com foco em <b>Java 17+ (Spring Boot)</b> e <b>React e .NET</b>.</li>
+  <li><b>Perfil:</b> Conecto <b>arquitetura e backend</b> com <b>interfaces de alto padrão</b> (Design Systems).</li>
+  <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
+  <li><b>Frontend:</b> Experiência PIXEL-perfect, acessibilidade (WCAG) e componentes reutilizáveis.</li>
+  <li><b>Cloud & DevOps:</b> AWS/Azure, Docker e CI/CD para deploy previsível e resiliente.</li>
+  <li><b>Local:</b> Cuiaba, Mato Grosso — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+</ul>
 
-### **Backend & Banco de Dados**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
-![API REST](https://img.shields.io/badge/APIRest-259eca?style=for-the-badge&logo=api&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **DevOps & Ferramentas**
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
-
----
-
-## 📚 Atualmente estudando
-- **.NET 8** com C# e ASP.NET Core  
-- **DevOps** com GitLab CI/CD e Docker  
-- **Arquitetura de software e padrões de projeto**  
-
----
+<pre>
+const jovanne = {
+  cargo: "Engenheiro de Software | Full Stack Developer",
+  local: "Cuiaba, Mato Grosso, Brasil",
+  foco: [
+    "Java 17+ e Spring Boot (APIs, microserviços, performance)",
+    "C#, .NET Framework e .NET Core (APIs, MVCs)",
+    "React (Design Systems, UX, acessibilidade)",
+    "Cloud (AWS/Azure), Docker e CI/CD",
+  ],
+  objetivo:
+    "Construir soluções robustas, escaláveis e elegantes, com alta qualidade técnica e ótima experiência do usuário."
+};
+</pre>
+<hr/>
 
 ## 🎓 Certificações & Cursos
 - [Fullstack Java – EBAC](https://static.lms.ebaconline.com.br/certs/course/b715045e-7a55-45f9-8dd6-84171739ba7c/original.pdf?1758200013528)  
 - [Formação CI/CD com GitLab – DIO](https://hermes.dio.me/certificates/42Z5YOXO.pdf)  
 - [Formação Docker – DIO](https://hermes.dio.me/certificates/PCTRVRYS.pdf)  
 
----
+
+<hr/>
 
 ## 📂 Projetos em Destaque
 - **[EFOOD](https://github.com/jovannesousa/efood)** – Ecommerce de restaurantes, praticando React, Redux e consumo de APIs REST.
 - **[Mais projetos »](https://github.com/jovannesousa?tab=repositories)**
 
----
+<h2>📊 Visão geral do GitHub</h2>
 
-## 📊 GitHub Stats
-![Jovane Sousa GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovannesousa&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovannesousa&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jovannesousa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<hr/>
 
----
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=jovannesousa&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovannesousa&layout=compact&hide_border=true&theme=github_dark"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
-## 📫 Contato
-- ✉ **Email:** jovanemaciel943@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/jovanesousadev](https://www.linkedin.com/in/jovanesousadev)  
-- 🌐 **Portfólio:** [*Jovane Sousa*](https://portifolio-seven-vert-85.vercel.app/)
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=jovannesousa&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
----
+<hr/>
 
-✨ *Sempre aprendendo, sempre evoluindo!*
+<h2>🧩 Stack tecnológica</h2>
+
+<div align="center">
+  <h4>💻 Linguagens</h4>
+  <img src="https://skillicons.dev/icons?i=java,cs,ts,js" />
+
+  <h4>🧱 Backend & Arquitetura</h4>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,rabbitmq,nodejs" />
+
+  <h4>🎨 Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,jquery,bootstrap,sass,styledcomponents" />
+
+  <h4>🗄️ Banco de dados</h4>
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql,mongodb" />
+
+  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,gitlab,github" />
+</div>
+
+<hr/>
+
+<h2>📊 Distribuição de Expertise</h2>
+
+<table>
+  <tr>
+    <th align="left">Área de Atuação</th>
+    <th align="center">Proficiência</th>
+    <th align="left">Destaque Principal</th>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td align="center"><b>95%</b></td>
+    <td>Design de interface, animações, responsividade</td>
+  </tr>
+  <tr>
+    <td><b>Backend </b></td>
+    <td align="center"><b>92%</b></td>
+    <td>APIs escaláveis, microserviços, segurança, performance</td>
+  </tr>
+  <tr>
+    <td><b>Integração Full-Stack</b></td>
+    <td align="center"><b>85%</b></td>
+    <td>Integração de APIs, arquitetura, persistência</td>
+  </tr>
+  <tr>
+    <td><b>Design UI/UX</b></td>
+    <td align="center"><b>88%</b></td>
+    <td>Design centrado no usuário, acessibilidade, Design Systems</td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td align="center"><b>82%</b></td>
+    <td>AWS/Azure, Docker, CI/CD, deploy resiliente</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>✨ Meus Diferenciais</h2>
+
+<table>
+  <tr>
+    <th align="left">Característica</th>
+    <th align="left">Aplicação Prática</th>
+  </tr>
+  <tr>
+    <td><b>Design com Propósito</b></td>
+    <td>Cada animação tem função — não é só estética, mas significado</td>
+  </tr>
+  <tr>
+    <td><b>Dados Humanizados</b></td>
+    <td>Transformo números frios em histórias que geram empatia e ação</td>
+  </tr>
+  <tr>
+    <td><b>Comunicação Clara</b></td>
+    <td>Tradução do técnico para o simples, com foco em usuários reais</td>
+  </tr>
+  <tr>
+    <td><b>Curva de Aprendizado Rápida</b></td>
+    <td>De zero à produção em projetos complexos em poucas semanas</td>
+  </tr>
+  <tr>
+    <td><b>Resiliência Profissional</b></td>
+    <td>Alta adaptabilidade e entrega consistente mesmo sob pressão</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>📈 Atividade & gráficos</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jovannesousa&bg_color=0B1220&color=C9D1D9&line=FF3B30&point=FF3B30&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
+
+<hr/>
+
+<h2>🌍 Aberto a oportunidades</h2>
+
+<pre>
+Cargos:
+- Engenheiro de Software
+- Desenvolvedor Full Stack
+- Backend C# /.NET & Java/Spring
+- Frontend React
+
+Modelo:
+- Remoto
+- Híbrido
+- Presencial
+
+Local:
+Cuiaba, MT — Brasil
+</pre>
+
+<hr/>
+
+<h2>💬✨ Vamos nos conectar</h2>
+
+<p align="center">
+  Cada link abre uma camada diferente da minha jornada:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jovanesousadev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jovannesousa" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portifolio-seven-vert-85.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Showcase%20Interativo-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:jovanemaciel943@gmail.com">jovanemaciel943@gmail.com</a><br>
+  🌍 <b>Disponível para trabalho remoto global</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
