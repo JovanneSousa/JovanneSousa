@@ -62,6 +62,35 @@ const jovanne = {
 </pre>
 <hr/>
 
+## 📚 Estudando atualmente
+
+- **Banco de Dados Avançado**
+  - SQL de alta performance
+  - Otimização de queries (EXPLAIN, índices, concorrência)
+  - Modelagem relacional e trade-offs de arquitetura
+
+- **Arquitetura Backend**
+  - Clean Architecture e DDD tático
+  - Sistemas orientados a eventos (RabbitMQ)
+  - Resiliência, consistência eventual e integração entre serviços
+
+- **Observabilidade & Performance**
+  - Monitoramento, métricas e tracing distribuído
+  - Diagnóstico de gargalos em produção
+  - Boas práticas de logs estruturados
+
+- **Inteligência Artificial aplicada**
+  - Integração de LLMs em sistemas reais
+  - Agentes de IA e orquestração
+  - RAG (Retrieval-Augmented Generation)
+  - IA como camada de automação e decisão
+
+- **Segurança de APIs**
+  - OAuth2, JWT e controle de acesso
+  - Boas práticas de segurança e OWASP
+
+<hr />
+
 ## 🎓 Certificações & Cursos
 - [Fullstack Java – EBAC](https://static.lms.ebaconline.com.br/certs/course/b715045e-7a55-45f9-8dd6-84171739ba7c/original.pdf?1758200013528)  
 - [Formação CI/CD com GitLab – DIO](https://hermes.dio.me/certificates/42Z5YOXO.pdf)  
