@@ -110,12 +110,12 @@ const jovanne = {
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=jovannesousa&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
+    src="https://github-stats.jovanne.dev.br/api?username=jovannesousa&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovannesousa&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-stats.jovanne.dev.br/api/top-langs/?username=jovannesousa&layout=compact&hide_border=true&theme=github_dark"
     alt="Linguagens mais usadas"
   />
 </p>
