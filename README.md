@@ -100,7 +100,7 @@ const jovanne = {
 <hr/>
 
 ## 📂 Projetos em Destaque
-- **[EFOOD](https://github.com/jovannesousa/efood)** – Ecommerce de restaurantes, praticando React, Redux e consumo de APIs REST.
+- **[FINCONTROL-SYSTEM](https://github.com/JovanneSousa/fincontrol-system)** – Aplicação de financias, com integração com outros sistemas e messageria.
 - **[Mais projetos »](https://github.com/jovannesousa?tab=repositories)**
 
 <h2>📊 Visão geral do GitHub</h2>
