@@ -102,7 +102,7 @@ const jovanne = {
 
 ## 📂 Projetos em Destaque
 - **[FINCONTROL-SYSTEM](https://github.com/JovanneSousa/fincontrol-system)** – Aplicação de financias, com integração com outros sistemas e messageria.
-- **[TASKFLOW](https://github.com/jovannesousa/taskflow) ** - Sistema de gerenciamento de tarefas com .NET e React, oferecendo CRUD completo, filtros avançados e interface moderna.
+- **[TASKFLOW](https://github.com/jovannesousa/taskflow)** - Sistema de gerenciamento de tarefas com .NET e React, oferecendo CRUD completo, filtros avançados e interface moderna.
 - **[Mais projetos »](https://github.com/jovannesousa?tab=repositories)**
 
 <h2>📊 Visão geral do GitHub</h2>
@@ -145,7 +145,7 @@ const jovanne = {
   <img src="https://skillicons.dev/icons?i=react,jquery,bootstrap,sass,styledcomponents" />
 
   <h4>🗄️ Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
   <h4>☁️ Cloud, DevOps & Ferramentas</h4>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,gitlab,github" />
