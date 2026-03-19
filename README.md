@@ -19,7 +19,7 @@
   <a href="mailto:jovanemaciel943@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portifolio-seven-vert-85.vercel.app" target="_blank" rel="noreferrer">
+  <a href="https://portifolio.jovanne.dev.br" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/jovannesousa" target="_blank" rel="noreferrer">
@@ -92,6 +92,7 @@ const jovanne = {
 <hr />
 
 ## 🎓 Certificações & Cursos
+- [Formação .NET Developer - DIO](https://hermes.dio.me/certificates/KRRAMPYP.pdf)
 - [Fullstack Java – EBAC](https://static.lms.ebaconline.com.br/certs/course/b715045e-7a55-45f9-8dd6-84171739ba7c/original.pdf?1758200013528)  
 - [Formação CI/CD com GitLab – DIO](https://hermes.dio.me/certificates/42Z5YOXO.pdf)  
 - [Formação Docker – DIO](https://hermes.dio.me/certificates/PCTRVRYS.pdf)  
@@ -101,6 +102,7 @@ const jovanne = {
 
 ## 📂 Projetos em Destaque
 - **[FINCONTROL-SYSTEM](https://github.com/JovanneSousa/fincontrol-system)** – Aplicação de financias, com integração com outros sistemas e messageria.
+- **[TASKFLOW](https://github.com/jovannesousa/taskflow) ** - Sistema de gerenciamento de tarefas com .NET e React, oferecendo CRUD completo, filtros avançados e interface moderna.
 - **[Mais projetos »](https://github.com/jovannesousa?tab=repositories)**
 
 <h2>📊 Visão geral do GitHub</h2>
@@ -263,7 +265,7 @@ Cuiaba, MT — Brasil
   <a href="https://github.com/jovannesousa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://portifolio-seven-vert-85.vercel.app" target="_blank" rel="noreferrer">
+  <a href="https://portifolio.jovanne.dev.br" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Showcase%20Interativo-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
