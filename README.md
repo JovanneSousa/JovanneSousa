@@ -64,6 +64,8 @@ const jovanne = {
 
 <h3>📦 Repositórios em destaque</h3>
 
+<h4>Projetos completos</h4>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -88,15 +90,19 @@ const jovanne = {
       </div>
     </td>
   </tr>
+</table>
 
+<h4>Módulos dos projetos</h4>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
-          <a href="https://github.com/jovannesousa">📇 CONTACT MANAGER</a>
+          <a href="https://github.com/JovanneSousa/fin-api">fin-api</a>
         </h4>
         <p style="margin: 8px 0 0 0;">
-          Aplicação para gerenciamento de contatos com organização por inicial e foco em usabilidade.
+          API de finanças pessoais em .NET com autenticação JWT e integração via RabbitMQ.
         </p>
       </div>
     </td>
@@ -104,10 +110,33 @@ const jovanne = {
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
-          <a href="https://github.com/jovannesousa">🎓 COURSE HUB</a>
+          <a href="https://github.com/jovannesousa/auth">Auth</a>
         </h4>
         <p style="margin: 8px 0 0 0;">
-          Plataforma de cursos com arquitetura fullstack, autenticação e organização de conteúdos.
+           Serviço de autenticação e identidade com .NET, JWT e ASP.NET Identity, integrado via RabbitMQ.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
+        <h4 style="margin: 0;">
+          <a href="https://github.com/JovanneSousa/email-service">Email-service</a>
+        </h4>
+        <p style="margin: 8px 0 0 0;">
+          Microserviço de envio de e-mails com Java e Spring Boot, integrado ao RabbitMQ para processamento assíncrono.
+        </p>
+      </div>
+    </td>
+
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
+        <h4 style="margin: 0;">
+          <a href="https://github.com/jovannesousa/MessageBus">MessageBus</a>
+        </h4>
+        <p style="margin: 8px 0 0 0;">
+           Biblioteca .NET para mensageria com RabbitMQ, suportando Publish/Subscribe e Request/Response.
         </p>
       </div>
     </td>
