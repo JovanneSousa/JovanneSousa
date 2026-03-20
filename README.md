@@ -78,17 +78,18 @@ const jovanne = {
         </p>
       </div>
     </td>
-
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
-        <h4 style="margin: 0;">
-          <a href="https://github.com/jovannesousa/taskflow">🧩 TASKFLOW</a>
-        </h4>
-        <p style="margin: 8px 0 0 0;">
-          Gerenciador de tarefas com .NET e React, com CRUD completo, filtros avançados e interface moderna.
-        </p>
-      </div>
-    </td>
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
+         <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
+         <h4 style="margin: 0;">
+            <a href="https://github.com/jovannesousa/taskflow">🧩 TASKFLOW</a>
+         </h4>
+         <p style="margin: 8px 0 0 0;">
+            Gerenciador de tarefas com .NET e React, com CRUD completo, filtros avançados e interface moderna.
+         </p>
+         </div>
+      </td>
   </tr>
 </table>
 
@@ -104,16 +105,23 @@ const jovanne = {
         <p style="margin: 8px 0 0 0;">
           API de finanças pessoais em .NET com autenticação JWT e integração via RabbitMQ.
         </p>
+        <p style="margin: 10px 0;">
+          <img src="https://skillicons.dev/icons?i=dotnet,cs,rabbitmq,postgres,docker" height="28" />
+        </p>
       </div>
     </td>
-
+   </tr>
+   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
           <a href="https://github.com/jovannesousa/auth">Auth</a>
         </h4>
         <p style="margin: 8px 0 0 0;">
-           Serviço de autenticação e identidade com .NET, JWT e ASP.NET Identity, integrado via RabbitMQ.
+           Serviço de autenticação e identidade, que possui interface para gerenciamento, com .NET, JWT, ASP.NET Identity e Blazor, integrado via RabbitMQ.
+        </p>
+        <p style="margin: 10px 0;">
+          <img src="https://skillicons.dev/icons?i=dotnet,cs,rabbitmq,postgres,bootstrap,docker" height="28" />
         </p>
       </div>
     </td>
@@ -127,9 +135,13 @@ const jovanne = {
         <p style="margin: 8px 0 0 0;">
           Microserviço de envio de e-mails com Java e Spring Boot, integrado ao RabbitMQ para processamento assíncrono.
         </p>
+        <p style="margin: 10px 0;">
+          <img src="https://skillicons.dev/icons?i=spring,java,hibernate,rabbitmq,postgres,maven,docker" height="28" />
+        </p>
       </div>
     </td>
-
+    </tr>
+    <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
@@ -137,6 +149,9 @@ const jovanne = {
         </h4>
         <p style="margin: 8px 0 0 0;">
            Biblioteca .NET para mensageria com RabbitMQ, suportando Publish/Subscribe e Request/Response.
+        </p>
+        <p style="margin: 10px 0;">
+          <img src="https://skillicons.dev/icons?i=dotnet,cs,rabbitmq" height="28" />
         </p>
       </div>
     </td>
@@ -181,20 +196,11 @@ const jovanne = {
 <hr />
 
 ## 🎓 Certificações & Cursos
+
 - [Formação .NET Developer - DIO](https://hermes.dio.me/certificates/KRRAMPYP.pdf)
-- [Fullstack Java – EBAC](https://static.lms.ebaconline.com.br/certs/course/b715045e-7a55-45f9-8dd6-84171739ba7c/original.pdf?1758200013528)  
-- [Formação CI/CD com GitLab – DIO](https://hermes.dio.me/certificates/42Z5YOXO.pdf)  
-- [Formação Docker – DIO](https://hermes.dio.me/certificates/PCTRVRYS.pdf)  
-
-
-<hr/>
-
-## 📂 Projetos em Destaque
-- **[FINCONTROL-SYSTEM](https://github.com/JovanneSousa/fincontrol-system)** – Aplicação de financias, com integração com outros sistemas e messageria.
-- **[TASKFLOW](https://github.com/jovannesousa/taskflow)** - Sistema de gerenciamento de tarefas com .NET e React, oferecendo CRUD completo, filtros avançados e interface moderna.
-- **[Mais projetos »](https://github.com/jovannesousa?tab=repositories)**
-
-<h2>📊 Visão geral do GitHub</h2>
+- [Fullstack Java – EBAC](https://static.lms.ebaconline.com.br/certs/course/b715045e-7a55-45f9-8dd6-84171739ba7c/original.pdf?1758200013528)
+- [Formação CI/CD com GitLab – DIO](https://hermes.dio.me/certificates/42Z5YOXO.pdf)
+- [Formação Docker – DIO](https://hermes.dio.me/certificates/PCTRVRYS.pdf)
 
 <hr/>
 
