@@ -62,6 +62,64 @@ const jovanne = {
 </pre>
 <hr/>
 
+<h3>📦 Repositórios em destaque</h3>
+
+<div>
+
+  <div>
+    <h4>
+      <a href="https://github.com/JovanneSousa/fincontrol-system">
+        FINCONTROL-SYSTEM
+      </a>
+    </h4>
+    <p>
+      Sistema financeiro distribuído com arquitetura de microserviços, mensageria e integração entre serviços.
+    </p>
+  </div>
+
+  <div>
+    <h4>
+      <a href="https://github.com/jovannesousa/taskflow">
+        TASKFLOW
+      </a>
+    </h4>
+    <p>
+      Gerenciador de tarefas com .NET e React, incluindo CRUD completo, filtros avançados e interface moderna.
+    </p>
+  </div>
+
+  <div>
+    <h4>
+      <a href="https://github.com/jovannesousa">
+        CONTACT MANAGER
+      </a>
+    </h4>
+    <p>
+      Aplicação para gerenciamento de contatos com organização por inicial e foco em usabilidade.
+    </p>
+  </div>
+
+  <div>
+    <h4>
+      <a href="https://github.com/jovannesousa">
+        COURSE HUB
+      </a>
+    </h4>
+    <p>
+      Plataforma de cursos com arquitetura fullstack, autenticação e organização de conteúdos.
+    </p>
+  </div>
+
+</div>
+
+<p>
+  <a href="https://github.com/jovannesousa?tab=repositories">
+    🔎 Ver todos os repositórios
+  </a>
+</p>
+
+<hr/>
+
 ## 📚 Estudando atualmente
 
 - **Banco de Dados Avançado**
