@@ -65,6 +65,10 @@ const jovanne = {
 <h3>📦 Repositórios em destaque</h3>
 
 <h4>Projetos completos</h4>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
           <a href="https://github.com/JovanneSousa/fincontrol-system">🚀 FINCONTROL-SYSTEM</a>
@@ -73,6 +77,10 @@ const jovanne = {
           Sistema financeiro distribuído com arquitetura de microserviços, mensageria e integração entre serviços.
         </p>
       </div>
+    </td>
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
          <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
          <h4 style="margin: 0;">
             <a href="https://github.com/jovannesousa/taskflow">🧩 TASKFLOW</a>
@@ -81,8 +89,15 @@ const jovanne = {
             Gerenciador de tarefas com .NET e React, com CRUD completo, filtros avançados e interface moderna.
          </p>
          </div>
+      </td>
+  </tr>
+</table>
 
 <h4>Módulos dos projetos</h4>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
           <a href="https://github.com/JovanneSousa/fin-api">fin-api</a>
@@ -94,6 +109,10 @@ const jovanne = {
           <img src="https://skillicons.dev/icons?i=dotnet,cs,rabbitmq,postgres,docker" height="28" />
         </p>
       </div>
+    </td>
+   </tr>
+   <tr>
+    <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
           <a href="https://github.com/jovannesousa/auth">Auth</a>
@@ -105,6 +124,10 @@ const jovanne = {
           <img src="https://skillicons.dev/icons?i=dotnet,cs,rabbitmq,postgres,bootstrap,docker" height="28" />
         </p>
       </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
           <a href="https://github.com/JovanneSousa/email-service">Email-service</a>
@@ -116,6 +139,10 @@ const jovanne = {
           <img src="https://skillicons.dev/icons?i=spring,java,hibernate,rabbitmq,postgres,maven,docker" height="28" />
         </p>
       </div>
+    </td>
+    </tr>
+    <tr>
+    <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
         <h4 style="margin: 0;">
           <a href="https://github.com/jovannesousa/MessageBus">MessageBus</a>
@@ -127,6 +154,9 @@ const jovanne = {
           <img src="https://skillicons.dev/icons?i=dotnet,cs,rabbitmq" height="28" />
         </p>
       </div>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/jovannesousa?tab=repositories">
