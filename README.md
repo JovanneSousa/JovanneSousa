@@ -64,55 +64,57 @@ const jovanne = {
 
 <h3>📦 Repositórios em destaque</h3>
 
-<div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
+        <h4 style="margin: 0;">
+          <a href="https://github.com/JovanneSousa/fincontrol-system">🚀 FINCONTROL-SYSTEM</a>
+        </h4>
+        <p style="margin: 8px 0 0 0;">
+          Sistema financeiro distribuído com arquitetura de microserviços, mensageria e integração entre serviços.
+        </p>
+      </div>
+    </td>
 
-  <div>
-    <h4>
-      <a href="https://github.com/JovanneSousa/fincontrol-system">
-        FINCONTROL-SYSTEM
-      </a>
-    </h4>
-    <p>
-      Sistema financeiro distribuído com arquitetura de microserviços, mensageria e integração entre serviços.
-    </p>
-  </div>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
+        <h4 style="margin: 0;">
+          <a href="https://github.com/jovannesousa/taskflow">🧩 TASKFLOW</a>
+        </h4>
+        <p style="margin: 8px 0 0 0;">
+          Gerenciador de tarefas com .NET e React, com CRUD completo, filtros avançados e interface moderna.
+        </p>
+      </div>
+    </td>
+  </tr>
 
-  <div>
-    <h4>
-      <a href="https://github.com/jovannesousa/taskflow">
-        TASKFLOW
-      </a>
-    </h4>
-    <p>
-      Gerenciador de tarefas com .NET e React, incluindo CRUD completo, filtros avançados e interface moderna.
-    </p>
-  </div>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
+        <h4 style="margin: 0;">
+          <a href="https://github.com/jovannesousa">📇 CONTACT MANAGER</a>
+        </h4>
+        <p style="margin: 8px 0 0 0;">
+          Aplicação para gerenciamento de contatos com organização por inicial e foco em usabilidade.
+        </p>
+      </div>
+    </td>
 
-  <div>
-    <h4>
-      <a href="https://github.com/jovannesousa">
-        CONTACT MANAGER
-      </a>
-    </h4>
-    <p>
-      Aplicação para gerenciamento de contatos com organização por inicial e foco em usabilidade.
-    </p>
-  </div>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 8px;">
+        <h4 style="margin: 0;">
+          <a href="https://github.com/jovannesousa">🎓 COURSE HUB</a>
+        </h4>
+        <p style="margin: 8px 0 0 0;">
+          Plataforma de cursos com arquitetura fullstack, autenticação e organização de conteúdos.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <h4>
-      <a href="https://github.com/jovannesousa">
-        COURSE HUB
-      </a>
-    </h4>
-    <p>
-      Plataforma de cursos com arquitetura fullstack, autenticação e organização de conteúdos.
-    </p>
-  </div>
-
-</div>
-
-<p>
+<p align="center">
   <a href="https://github.com/jovannesousa?tab=repositories">
     🔎 Ver todos os repositórios
   </a>
